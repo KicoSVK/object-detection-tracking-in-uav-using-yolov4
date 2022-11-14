@@ -2,10 +2,10 @@
 Tato práce představuje další způsob využití detekce a následné analýzy objektů z pohledu bezpilotních letounů (UAV). Celý systém využívá jednu kameru, která je vhodně umístěna na UAV pro zachycení scény. Zpracování obrazu a následná detekce objektů pomocí modelu konvoluční neuronové sítě YOLOv4. Model YOLO byl natrénován na naší vlastní datové sadě. Tato tréninková sada byla vytvořena speciálně pro aplikace UAV. Výsledkem této práce je naučený model neuronové sítě YOLO určený pro UAV s ohledem na použitou trénovací sadu.
 
 <p float="center">
-  <img src="https://drive.google.com/uc?id=1boxg0Mui2vfPdvQ_nGBF9sQa2gANmjEf" width="200" />
-  <img src="https://drive.google.com/uc?id=1t_ioAAK7zLW0CU5xHoStTeEDxtuqg4ho" width="200" />
-  <img src="https://drive.google.com/uc?id=1g191w6fDrlVKNChyWkfXK1rAKW5MwzmH" width="200" />
-  <img src="https://drive.google.com/uc?id=1f4B0i1wBc1Jk9wVEzQsfuSR-7piq0iwv" width="200" />
+  <img src="https://drive.google.com/uc?id=1BHYKVwZjPXDLr79f-iMFqag8bND_PbhK" width="200" />
+  <img src="https://drive.google.com/uc?id=16S1AyNxcbtK8W0tqslKpSOrbu-wxosyA" width="200" />
+  <img src="https://drive.google.com/uc?id=1AlfS5QZ-hxuejowRljwp6be9Ej8JqAN0" width="200" />
+  <img src="https://drive.google.com/uc?id=16rHmn-riswi_pw3NGHB-II0hkqAtQBBD" width="200" />
 </p>
 
 <b>Datovou sadu, skripty a další soubory použité v této práci lze nalézt na:</b></br>
