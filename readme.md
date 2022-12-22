@@ -9,7 +9,7 @@ Tato práce představuje další způsob využití detekce a následné analýzy
 </p>
 
 <b>Datovou sadu, skripty a další soubory použité v této práci lze nalézt na:</b></br>
-https://drive.google.com/drive/folders/1pCiBqvItr4K8-zJZ3WTG0lvnNh--s22S?usp=sharing
+https://drive.google.com/drive/folders/16-P7WJXk4s_M7V-P9I_9HOSBaXcYndMZ?usp=share_link
 
 <b>Trénovat model neuronové sítě YOLOv4 s frameworkem darknet lze:</b></br>
 <code>sudo path/to/darknet detector train "coco.data" "yolov4-obj.cfg" "yolov4.conv.137" -dont_show -mjpeg_port 8090 -map</code>
