@@ -1,0 +1,5 @@
+To start training neural network model YOLOv4 with framework darknet:
+sudo path/to/darknet detector train "coco.data" "yolov4-obj.cfg" "yolov4.conv.137" -dont_show -mjpeg_port 8090 -map
+
+To start testing inference of learned neural network model YOLOv4:
+python3 opencv_yolov4_inference_test.py --video=./video/cars.mp4

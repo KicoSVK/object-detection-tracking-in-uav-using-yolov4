@@ -1,0 +1,2 @@
+Learned weights of model neural network YOLOv4 can be found at:
+https://drive.google.com/drive/folders/1i5lp0-YPplwq94FmYdSqc-BQuuQZbLuU?usp=sharing

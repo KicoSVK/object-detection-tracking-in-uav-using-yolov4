@@ -1,0 +1,6 @@
+classes=14
+train  = /path/to/train.txt
+valid  = /path/to/valid.txt
+names = /path/to/obj.names
+backup = /path/to/backup/
+#eval=coco
